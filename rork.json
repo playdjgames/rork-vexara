@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "Vexara",
+      "path": "ios-nova-strike",
+      "framework": "swift"
+    }
+  ],
+  "$schema": "https://rork.com/schema/rork.json"
+}
