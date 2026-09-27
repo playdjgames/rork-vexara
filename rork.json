@@ -1,10 +1,15 @@
 {
+  "$schema": "https://rork.com/schema/rork.json",
   "apps": [
     {
       "name": "Vexara",
       "path": "ios-nova-strike",
       "framework": "swift"
+    },
+    {
+      "name": "Vexara Android",
+      "path": "android",
+      "framework": "kotlin"
     }
-  ],
-  "$schema": "https://rork.com/schema/rork.json"
+  ]
 }
