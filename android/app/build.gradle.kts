@@ -6,12 +6,12 @@ plugins {
 }
 
 android {
-    namespace = "com.rork.vexaraandroid"
+    namespace = "com.playdjgames.vexara"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.djgames.vexara"
-        minSdk = 24
+        applicationId = "com.playdjgames.vexara"
+        minSdk = 26
         targetSdk = 36
         versionCode = 1
         versionName = "1.0.0"
